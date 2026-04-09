@@ -1,1 +1,1 @@
-# Inverted-Triangle
+# Inverted-Triangle.
